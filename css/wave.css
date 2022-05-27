@@ -6,6 +6,9 @@
 .main-container{
 	display: grid;
 	grid-template-rows: repeat(5, 1fr);
+}
+.main-container > div{
+height:700px;
 	
 }
 *::after,
