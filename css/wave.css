@@ -7,7 +7,7 @@
 	display: grid;
 	grid-template-rows: repeat(5, 1fr);
 }
-.main-container > div{
+.main-container>div{
 height:700px;
 	
 }
