@@ -9,7 +9,7 @@ html{
 }
 body{
 	font-family: nunito;
-	color: #333;
+	color: red
 }
 *::after,
 *::before{
