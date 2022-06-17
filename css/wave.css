@@ -11,16 +11,6 @@ body{
 	font-family: nunito;
 	color: #333;
 }
-.toWrap-1{
-	background: pink;
-}
-.toWrap-2{
-	background: magenta;
-}
-.main-container{
-	border: 2px solid yellow;
-	width: 100%;
-}
 *::after,
 *::before{
     box-sizing: border-box;
