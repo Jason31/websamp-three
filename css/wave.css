@@ -111,7 +111,7 @@ grid-area: 2 / 2 / 3 / 3;
 .text-content, .text-content-cards{
 	background:;
 	width: 500px;
-	font-size: 17px;
+	font-size: 19px;
 }
 .fa-calendar, .fa-plus{
 	color: #75489f;	
@@ -123,8 +123,7 @@ grid-area: 2 / 2 / 3 / 3;
     justify-content: space-around;
 	background: whitesmoke;
 	box-shadow: 0 -5px 5px -5px gainsboro;
-	height: 200px;
-	padding-top: 20px;
+	
 	
 
 }
@@ -285,10 +284,12 @@ grid-area: 2 / 2 / 3 / 3;
 		
 		display: flex;
 		flex-direction: column;
+                margin-top: 30px;
 	}
 	.text-content, .text-content-cards{
 		width: 90%;
 		margin: 0 auto;
+                margin-top: 15px;
 	}
 	/*  footer */
  /**nav-expand for footer with head and ul**/
