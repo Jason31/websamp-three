@@ -12,7 +12,7 @@ body{
 	color: #333;
 }
 .toWrap-1{
-	background: brown;
+	background: pink;
 }
 .toWrap-2{
 	background: magenta;
@@ -98,7 +98,6 @@ grid-row-gap: 0px;
 justify-content: center;
 align-items: center;
 justify-items: center;
-height: 600px;
 }
 
 .headline{ 
