@@ -326,8 +326,8 @@ transition: max-height 0.3s ease-in !important;
 .footer-ul{
 	border-bottom: 1px solid #333;
  }
-.footer-ul a{
-       padding: 4px 0 7px 7px;
+.ftr__list{
+       padding: 4px;
   }
  h3{
      padding: 10px;
