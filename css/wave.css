@@ -253,7 +253,7 @@ grid-area: 2 / 2 / 3 / 3;
 
     .navbar .menu-items li{
         margin-bottom: 1.8rem;
-        font-size: 1.1rem;
+        font-size: 21px;
         font-weight: 500;
     }
 
@@ -331,7 +331,7 @@ transition: max-height 0.3s ease-in !important;
 	border-bottom: 1px solid #333;
  }
 .footer-ul li{
-       padding: 6px;
+       padding: 8px;
   }
  h3{
      padding: 10px;
