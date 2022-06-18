@@ -305,7 +305,7 @@ transition: max-height 0.3s ease-out;
 .nav-folderized .nav h3:after {
 content: "+"; 
 position: absolute;
-right: 50px;
+right: 35px;
 }
 
 .nav-folderized .nav.open h3:after { 
@@ -331,6 +331,7 @@ transition: max-height 0.3s ease-in !important;
 }
 .footer-ul{
 	border-bottom: 1px solid #333;
+        padding: 15px;
   }
 }
 
