@@ -330,10 +330,11 @@ transition: max-height 0.3s ease-in !important;
 }
 .footer-ul{
 	border-bottom: 1px solid #333;
+        padding: 15px;
       
   }
 .footer-ul li{
-     padding: 50px;
+     padding: 12px;
   }
 }
 
