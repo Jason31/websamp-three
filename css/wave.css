@@ -327,7 +327,7 @@ transition: max-height 0.3s ease-in !important;
 	border-bottom: 1px solid #333;
  }
 .ftr__list, .footer-ul, .nav li a{
-       padding: 7px 0 0 7px;
+       padding: 4px 0 7px 7px;
   }
  h3{
      padding: 10px;
