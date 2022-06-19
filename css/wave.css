@@ -318,6 +318,7 @@ transition: max-height 0.3s ease-in !important;
 /**nav-expand for footer with head and ul**/
 .ftr__list li{
    padding: 6px;
+   margin-left: 7px;
 }
 
 .footer-section{
@@ -331,7 +332,6 @@ transition: max-height 0.3s ease-in !important;
  h3{
      padding: 10px;
      display: inline-block;
-     color: red;
 
   }
 }
